@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NikhitaKalburgikar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-Mars&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img align="right" height="150" src="https://drive.google.com/file/d/1pOmyA0f2raQbrWLBNr5Xgm13ZozHs1it/view"  />
+<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D5635AQG_ANezIgjEbA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1727243593540?e=1728709200&v=beta&t=BACIfFyUj87dQB6_15gtvjO9s3NoIywl2Dtmnei5iSc"  />
 </div>
 
 ###
